@@ -1,0 +1,20 @@
+.nav{
+    height: 120px;
+    width: 100%;
+    border: 2px solid black;
+    margin: 12px;
+}
+
+/* useCapture function */
+
+#b {
+    height: 120px;
+    width: 120px;
+    background-color: black;
+}
+
+#c {
+    height: 60px;
+    width: 60px;
+    background-color: aqua;
+}
