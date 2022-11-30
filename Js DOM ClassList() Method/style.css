@@ -1,0 +1,31 @@
+.name{
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.name2{
+    background-color: blue;
+}
+.name3{
+    transition: 1s all;
+}
+.name3:hover{
+    background-color: rgb(0, 183, 255);
+    border-radius: 99%;
+}
+
+.a {
+    height: 120px;
+    width: 100%;
+    background-color: pink;
+    transition: 1s all;
+}
+/* For Toggle Usage */
+.a2{
+    background-color: aqua;
+    transition: 1s all ease;
+}
+.a2:hover, .a:hover{
+    width: 60%;
+}
