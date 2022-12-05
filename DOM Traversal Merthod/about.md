@@ -18,7 +18,7 @@ This is the best learn experience that has made me mad and the transversal Metho
 # Technology I use in the learning
 
 - HTML (Hypertext Markup Language)
-- CSS (Casceding Stylesheet)
+- CSS (Cascading Stylesheet)
 - JS (Javascript)
 
 ### Author
