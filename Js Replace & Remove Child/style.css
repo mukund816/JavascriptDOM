@@ -1,0 +1,27 @@
+#test{
+background-color: rgb(255, 0, 0);
+width: 200px;
+height: 200px;
+display: block;
+margin: auto;
+color: white;
+}
+body{
+    display: flex;
+    flex-flow: column wrap;
+    justify-items: center;
+    align-items: center;
+}
+ul{
+    list-style:circle;
+}
+button{
+    width: 300px;
+    padding: 12px;
+    background-color: saddlebrown;
+    border: 0px;
+    color: white;
+    text-align: center;
+    margin: 12px;
+    cursor: pointer;
+}
