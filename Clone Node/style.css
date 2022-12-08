@@ -1,0 +1,10 @@
+.list1, .list2{
+    color: brown;
+    background-color: rgb(222, 222, 222);
+    margin: 30px 12px;
+}
+.test{
+    background-color: greenyellow;
+    width: 120px;
+    height: 120px;
+}
